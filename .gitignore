@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Models (too large for GitHub)
+models/*.bin
+models/*.pt
+models/*.pkl
+*.faiss
+
+# Data outputs
+data/processed/*
+!data/processed/.gitkeep
+
+# OS
+.DS_Store
