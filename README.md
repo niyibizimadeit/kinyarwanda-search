@@ -162,7 +162,7 @@ A companion paper documenting the dataset construction methodology, system desig
 
 ## License
 
-MIT License © 2025 NIYIBIZI Prince
+MIT License © 2026 NIYIBIZI Prince
 
 ---
 
