@@ -1,0 +1,542 @@
+[
+  {
+    "id": "146e39db-fdf4-460e-8a5f-5d3acb37c2cc",
+    "query": "ndashaka telefoni nziza",
+    "language": "rw",
+    "category": "Electronics"
+  },
+  {
+    "id": "6348f0fc-d0de-41da-8413-51aa64b9afd9",
+    "query": "igiciro cya mudasobwa",
+    "language": "rw",
+    "category": "Electronics"
+  },
+  {
+    "id": "02b63c8b-8223-40b1-82d9-02c257acea3d",
+    "query": "televiziyo nini ya samsung",
+    "language": "rw",
+    "category": "Electronics"
+  },
+  {
+    "id": "c19f8f9a-9314-4ca1-8020-4274cfbb5c89",
+    "query": "chajilo ya telefoni ikora vuba",
+    "language": "rw",
+    "category": "Accessories"
+  },
+  {
+    "id": "a5f10cd2-3348-4726-a08c-4de68a46bff6",
+    "query": "agaseke ka mudasobwa",
+    "language": "rw",
+    "category": "Accessories"
+  },
+  {
+    "id": "1dad2ef5-b134-4068-afaa-f3fa2302ce74",
+    "query": "isafuriya nziza yo guteka umuceri",
+    "language": "rw",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "f37dde6e-241b-4e96-9e93-89e422825091",
+    "query": "intebe y'ibiro nziza",
+    "language": "rw",
+    "category": "Furniture"
+  },
+  {
+    "id": "d0aab99d-c275-4aa7-b73b-9c64da2ee69a",
+    "query": "igitanda kinini cy'abantu babiri",
+    "language": "rw",
+    "category": "Furniture"
+  },
+  {
+    "id": "21f0178e-5ebd-48bd-928e-5d106cd3961d",
+    "query": "losyo y'umubiri ya nivea",
+    "language": "rw",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "71600dab-e936-4331-b63e-eb9b9789eaac",
+    "query": "impuzu nziza za gabo",
+    "language": "rw",
+    "category": "Fashion"
+  },
+  {
+    "id": "9c941079-3413-441d-837e-ab17c521c99d",
+    "query": "ndashaka ibicuruzwa bya phone",
+    "language": "rw",
+    "category": "Electronics"
+  },
+  {
+    "id": "a7709c61-bb8e-42cb-b630-735791845a5e",
+    "query": "ecouteur zidafite insinga",
+    "language": "rw",
+    "category": "Accessories"
+  },
+  {
+    "id": "76b64b40-fed3-4433-b030-0354a038b079",
+    "query": "bateri nini yo gushaja",
+    "language": "rw",
+    "category": "Accessories"
+  },
+  {
+    "id": "96a0b463-ee1f-4144-8092-978532d8af7d",
+    "query": "urukweto rwiza rwa gabo",
+    "language": "rw",
+    "category": "Fashion"
+  },
+  {
+    "id": "676afe2d-7f22-4e10-a8a6-c9d724f97e5f",
+    "query": "robe nziza y'umugore",
+    "language": "rw",
+    "category": "Fashion"
+  },
+  {
+    "id": "1fd34613-2301-44a8-b136-8372f75b2d0b",
+    "query": "kremu yo mu maso nziza",
+    "language": "rw",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "bac32f35-fccf-45d5-b871-66079b261585",
+    "query": "blender nziza yo gutunganya ibiribwa",
+    "language": "rw",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "489481df-226e-4e14-99ed-f7c40e419c70",
+    "query": "matelas nziza kuri igitanda",
+    "language": "rw",
+    "category": "Furniture"
+  },
+  {
+    "id": "613852e4-5c47-4a74-bbc6-bb8a6329f34f",
+    "query": "sofa nziza ya salon",
+    "language": "rw",
+    "category": "Furniture"
+  },
+  {
+    "id": "4eb4f4dd-adff-4525-ae94-26623ecfd79b",
+    "query": "ventilateu nziza mu cyumba",
+    "language": "rw",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "34d82cca-ec10-41a0-b79f-b4ea48bdec37",
+    "query": "shampoo nziza y'imisatsi",
+    "language": "rw",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "3ffd6670-b890-4fa2-b735-93209622294b",
+    "query": "pantalon ya jeans ya gabo",
+    "language": "rw",
+    "category": "Fashion"
+  },
+  {
+    "id": "02ca2b0f-bed0-4450-9d27-5d29d67cae37",
+    "query": "insinga ya USB-C yo gushaja",
+    "language": "rw",
+    "category": "Accessories"
+  },
+  {
+    "id": "6c1890d8-324b-441e-947e-8cd1f0b737e0",
+    "query": "fer yo gukanika impuzu",
+    "language": "rw",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "638af7aa-2d9e-4827-b72f-264edc024284",
+    "query": "saa nziza y'ikiganza",
+    "language": "rw",
+    "category": "Accessories"
+  },
+  {
+    "id": "f39c4637-b183-443b-87c6-c5b4f579afed",
+    "query": "mesa nziza yo kurya",
+    "language": "rw",
+    "category": "Furniture"
+  },
+  {
+    "id": "f8cc86fc-6861-453f-bc5c-e19a0669bb27",
+    "query": "garderobe nini y'icyumba",
+    "language": "rw",
+    "category": "Furniture"
+  },
+  {
+    "id": "e683e848-b686-462c-9cc4-24fd14ff6d34",
+    "query": "parefumu nziza k'umugore",
+    "language": "rw",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "0b883d29-2f4d-4510-b420-b1a07a119eeb",
+    "query": "ndashaka air fryer nziza",
+    "language": "rw",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "27de35a4-2a83-44a9-8834-9631c4d34306",
+    "query": "kitenge nziza y'afurika",
+    "language": "rw",
+    "category": "Fashion"
+  },
+  {
+    "id": "60b175ea-fbaa-4fde-8120-c725b2124358",
+    "query": "best smartphone under 200000 RWF",
+    "language": "en",
+    "category": "Electronics"
+  },
+  {
+    "id": "7cb0e9b7-5da0-4d84-96c4-0336bb91ceed",
+    "query": "laptop for university students",
+    "language": "en",
+    "category": "Electronics"
+  },
+  {
+    "id": "4de0766a-7e54-400b-a416-9d4e1cbdf92a",
+    "query": "fast charging cable USB-C",
+    "language": "en",
+    "category": "Accessories"
+  },
+  {
+    "id": "f1378db0-8dbf-4cd7-a7cf-0b30b02cd58e",
+    "query": "wireless earbuds noise cancellation",
+    "language": "en",
+    "category": "Accessories"
+  },
+  {
+    "id": "785d082b-b19a-48cd-9e82-d01b4688a4f9",
+    "query": "power bank 20000mAh",
+    "language": "en",
+    "category": "Accessories"
+  },
+  {
+    "id": "f7edab04-af33-4fc5-b74c-14bce7c5a48d",
+    "query": "ergonomic office chair",
+    "language": "en",
+    "category": "Furniture"
+  },
+  {
+    "id": "d87c82ed-a452-4115-a325-dfb8f37708b5",
+    "query": "rice cooker 1.8L",
+    "language": "en",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "7423a34f-ae91-4918-9414-7579ddbaab6b",
+    "query": "samsung smart TV 43 inch",
+    "language": "en",
+    "category": "Electronics"
+  },
+  {
+    "id": "3f01c4db-7fd8-4f31-a637-bf9faaeec0f2",
+    "query": "moisturising body lotion dry skin",
+    "language": "en",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "8b6e788a-1832-4113-a234-fd3750de731b",
+    "query": "men slim fit jeans",
+    "language": "en",
+    "category": "Fashion"
+  },
+  {
+    "id": "09b2548d-1fb7-4ee7-9006-1992ecf40746",
+    "query": "bluetooth speaker waterproof",
+    "language": "en",
+    "category": "Electronics"
+  },
+  {
+    "id": "06ae5195-78cc-4c28-9f07-97640b36936a",
+    "query": "standing fan bedroom",
+    "language": "en",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "cb407dfb-b27e-4269-bee2-7476140e49d2",
+    "query": "women floral dress midi",
+    "language": "en",
+    "category": "Fashion"
+  },
+  {
+    "id": "1b8f318d-7908-44b9-b91d-e3f466fd30fd",
+    "query": "coffee table wooden",
+    "language": "en",
+    "category": "Furniture"
+  },
+  {
+    "id": "82b94fe6-7ad3-4ebe-a914-3ea2639e0be8",
+    "query": "face wash oily skin",
+    "language": "en",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "cc268b5b-f7f3-4820-b1fe-f22726f6cafb",
+    "query": "laptop bag waterproof 15 inch",
+    "language": "en",
+    "category": "Accessories"
+  },
+  {
+    "id": "377178ca-83b2-449a-b9fe-c3aca61c8e3a",
+    "query": "air fryer digital 5L",
+    "language": "en",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "670a4b2d-b7d3-4b09-b827-a31ac1fd30a4",
+    "query": "queen size mattress",
+    "language": "en",
+    "category": "Furniture"
+  },
+  {
+    "id": "be811976-f613-421a-9cf2-501427665937",
+    "query": "gaming chair recliner",
+    "language": "en",
+    "category": "Furniture"
+  },
+  {
+    "id": "67243d09-3889-4fcb-b26d-138f9d7a5e9a",
+    "query": "shampoo natural hair",
+    "language": "en",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "c4ff07de-042a-4dd0-9f2b-61c89399e80f",
+    "query": "kitenge African print fabric",
+    "language": "en",
+    "category": "Fashion"
+  },
+  {
+    "id": "149672aa-dcfe-405a-8c13-f6a6a47c1882",
+    "query": "wireless mouse keyboard",
+    "language": "en",
+    "category": "Accessories"
+  },
+  {
+    "id": "726532c9-e038-4384-800f-2649141338df",
+    "query": "electric kettle stainless steel",
+    "language": "en",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "7d92979b-ce3f-43e9-8e21-6e3f6cd1d211",
+    "query": "women high waist jeans",
+    "language": "en",
+    "category": "Fashion"
+  },
+  {
+    "id": "83dfe3e3-a16a-4a57-b12d-293f550b3329",
+    "query": "bookshelf 5 tier wooden",
+    "language": "en",
+    "category": "Furniture"
+  },
+  {
+    "id": "3734b8e3-6900-463a-94e1-ff709da0e072",
+    "query": "smartwatch fitness tracker",
+    "language": "en",
+    "category": "Accessories"
+  },
+  {
+    "id": "1f688b80-452e-4803-a2e2-2e4285bf1aae",
+    "query": "foundation dark skin",
+    "language": "en",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "727bdc6a-0300-4d91-aee2-5b19a7399fa6",
+    "query": "HP laptop core i5",
+    "language": "en",
+    "category": "Electronics"
+  },
+  {
+    "id": "b73c25ad-645f-4681-b63a-8f494cacb26f",
+    "query": "dining table 6 seater",
+    "language": "en",
+    "category": "Furniture"
+  },
+  {
+    "id": "f088530d-8fb5-4b7b-8ed3-7470a42270a1",
+    "query": "traditional Rwanda dress",
+    "language": "en",
+    "category": "Fashion"
+  },
+  {
+    "id": "95b1adee-2f8d-48b5-9ec8-fcc23cb172a9",
+    "query": "ndashaka laptop nziza kuri school",
+    "language": "mixed",
+    "category": "Electronics"
+  },
+  {
+    "id": "9e32df08-ba31-4698-b91e-e6a8cd0d6604",
+    "query": "phone case ya Samsung nziza",
+    "language": "mixed",
+    "category": "Accessories"
+  },
+  {
+    "id": "f4e928ff-c7ef-4d47-b43d-676c3238bf01",
+    "query": "nitanga amafaranga 50000 kuri TV nziza",
+    "language": "mixed",
+    "category": "Electronics"
+  },
+  {
+    "id": "33e02d16-5204-4e18-be69-350f41be3359",
+    "query": "agaseke ka laptop waterproof",
+    "language": "mixed",
+    "category": "Accessories"
+  },
+  {
+    "id": "a3d26f80-2d4a-4fc7-80e6-d0cf88053ca6",
+    "query": "sofa nziza kuri living room",
+    "language": "mixed",
+    "category": "Furniture"
+  },
+  {
+    "id": "cff30efb-49f8-4971-bba6-c801b08c54fd",
+    "query": "ndashaka blender yo gukora smoothie",
+    "language": "mixed",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "141b3084-ac5a-4166-b486-125a6eee33eb",
+    "query": "igiciro cya iPhone 14 ni kangahe",
+    "language": "mixed",
+    "category": "Electronics"
+  },
+  {
+    "id": "d45a4e9b-04e5-4233-90f4-681ebeb87528",
+    "query": "impuzu nziza za running",
+    "language": "mixed",
+    "category": "Fashion"
+  },
+  {
+    "id": "e262e700-5b0b-4dcb-becd-e82bdc15f4f2",
+    "query": "kremu nziza yo mu maso kuri oily skin",
+    "language": "mixed",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "b97d8f23-8e9d-4e87-a731-292deaf35cba",
+    "query": "intebe nziza ya office chair",
+    "language": "mixed",
+    "category": "Furniture"
+  },
+  {
+    "id": "f7ab9236-e89a-44a1-aac2-21cb90ab497a",
+    "query": "ndashaka wireless earbuds nziza",
+    "language": "mixed",
+    "category": "Accessories"
+  },
+  {
+    "id": "15e2b76d-3e99-4573-93a7-2bb9d2931dfe",
+    "query": "isafuriya nziza ya rice cooker 1.8L",
+    "language": "mixed",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "11786c21-4542-4221-8171-932b625db990",
+    "query": "robe nziza kuri party",
+    "language": "mixed",
+    "category": "Fashion"
+  },
+  {
+    "id": "57a3aa41-f7cd-4a87-9101-6f6ce2b9293f",
+    "query": "bateri nini ya power bank",
+    "language": "mixed",
+    "category": "Accessories"
+  },
+  {
+    "id": "4c9a084b-3f12-4fc1-8218-77df5db81b92",
+    "query": "losyo nziza kuri dry skin",
+    "language": "mixed",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "c9b86457-4e84-4ec5-8f0c-c1b560a40485",
+    "query": "igitanda nini kuri double bed",
+    "language": "mixed",
+    "category": "Furniture"
+  },
+  {
+    "id": "964f9298-806e-4fda-b553-677eb90df0e6",
+    "query": "ndashaka sneakers zera za gabo",
+    "language": "mixed",
+    "category": "Fashion"
+  },
+  {
+    "id": "9c637cab-e9ea-42ce-be0a-f59e99b98fa2",
+    "query": "smart TV samsung igiciro gite",
+    "language": "mixed",
+    "category": "Electronics"
+  },
+  {
+    "id": "2c2aa9c9-ef21-45e5-9b8e-da609c40a81f",
+    "query": "shampoo nziza kuri natural hair",
+    "language": "mixed",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "9f51b24d-eb52-4b29-9a41-46e29293c1f6",
+    "query": "mesa nziza ya dining table",
+    "language": "mixed",
+    "category": "Furniture"
+  },
+  {
+    "id": "836f7d1b-71cb-43fd-87e9-992b9398d2a4",
+    "query": "chajilo ikora vuba 65W",
+    "language": "mixed",
+    "category": "Accessories"
+  },
+  {
+    "id": "a7a934d4-c873-4de4-9510-42f3e4e0da5f",
+    "query": "ndashaka wardrobe nini y'icyumba",
+    "language": "mixed",
+    "category": "Furniture"
+  },
+  {
+    "id": "80bb06f1-d0e8-4a5e-831e-619e49566793",
+    "query": "impuzu za gym nziza z'umugore",
+    "language": "mixed",
+    "category": "Fashion"
+  },
+  {
+    "id": "434ef9b5-2656-4792-88af-f3b6e46081fb",
+    "query": "kamera nziza ya DSLR kuri photos",
+    "language": "mixed",
+    "category": "Electronics"
+  },
+  {
+    "id": "65fda63d-0d48-40e9-b80c-fd64ebe510de",
+    "query": "foundation nziza kuri dark skin",
+    "language": "mixed",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "621a3bfa-c535-420d-b754-e28339e14662",
+    "query": "ndashaka mudasobwa HP core i5",
+    "language": "mixed",
+    "category": "Electronics"
+  },
+  {
+    "id": "953804cd-d7fb-4e8c-b79c-badc31bfcafc",
+    "query": "fer nziza yo gukanika steam",
+    "language": "mixed",
+    "category": "Small Home Equipment"
+  },
+  {
+    "id": "c13a9dbb-f5b5-4fb4-859b-515c7f06b809",
+    "query": "umushanana nziza kuri wedding",
+    "language": "mixed",
+    "category": "Fashion"
+  },
+  {
+    "id": "52ad289f-2b3b-49c7-92a6-015b3851df06",
+    "query": "kitenge nziza ya African print",
+    "language": "mixed",
+    "category": "Fashion"
+  },
+  {
+    "id": "89a0fd0a-0b64-46b6-ae78-1baf5fac2758",
+    "query": "ibicuruzwa bya beauty nziza kuri skin",
+    "language": "mixed",
+    "category": "Beauty & Personal Care"
+  }
+]

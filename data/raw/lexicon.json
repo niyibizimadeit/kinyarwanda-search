@@ -1,0 +1,342 @@
+[
+  {
+    "english": "product",
+    "kinyarwanda": "igicuruzwa",
+    "example": "ibicuruzwa byiza"
+  },
+  {
+    "english": "price",
+    "kinyarwanda": "igiciro",
+    "example": "igiciro ni kangahe"
+  },
+  {
+    "english": "buy",
+    "kinyarwanda": "kugura",
+    "example": "ndashaka kugura"
+  },
+  {
+    "english": "sell",
+    "kinyarwanda": "kugurisha",
+    "example": "bagurisha hano"
+  },
+  {
+    "english": "order",
+    "kinyarwanda": "gutumiza",
+    "example": "ndashaka gutumiza"
+  },
+  {
+    "english": "delivery",
+    "kinyarwanda": "gutanga",
+    "example": "gutanga mu rugo"
+  },
+  {
+    "english": "I want",
+    "kinyarwanda": "ndashaka",
+    "example": "ndashaka telefoni nziza"
+  },
+  {
+    "english": "good/nice",
+    "kinyarwanda": "nziza",
+    "example": "ibicuruzwa nziza"
+  },
+  {
+    "english": "cheap",
+    "kinyarwanda": "gito",
+    "example": "igiciro gito"
+  },
+  {
+    "english": "expensive",
+    "kinyarwanda": "birahenze",
+    "example": "birahenze cyane"
+  },
+  {
+    "english": "discount",
+    "kinyarwanda": "igabanywa ry'igiciro",
+    "example": "igabanywa ry'igiciro"
+  },
+  {
+    "english": "new",
+    "kinyarwanda": "gishya",
+    "example": "igicuruzwa gishya"
+  },
+  {
+    "english": "quality",
+    "kinyarwanda": "ubwiza",
+    "example": "ubwiza bwiza"
+  },
+  {
+    "english": "money",
+    "kinyarwanda": "amafaranga",
+    "example": "nitanga amafaranga"
+  },
+  {
+    "english": "stock",
+    "kinyarwanda": "ibisigaye",
+    "example": "ibisigaye biri hehe"
+  },
+  {
+    "english": "size",
+    "kinyarwanda": "ingano",
+    "example": "ingano ingahe"
+  },
+  {
+    "english": "color",
+    "kinyarwanda": "ibara",
+    "example": "ibara ryiza"
+  },
+  {
+    "english": "small",
+    "kinyarwanda": "gito",
+    "example": "igicuruzwa gito"
+  },
+  {
+    "english": "big",
+    "kinyarwanda": "kinini",
+    "example": "igicuruzwa kinini"
+  },
+  {
+    "english": "how much",
+    "kinyarwanda": "ni kangahe",
+    "example": "ni kangahe igiciro"
+  },
+  {
+    "english": "phone",
+    "kinyarwanda": "telefoni",
+    "example": "telefoni nziza"
+  },
+  {
+    "english": "laptop",
+    "kinyarwanda": "mudasobwa",
+    "example": "mudasobwa wa none"
+  },
+  {
+    "english": "computer",
+    "kinyarwanda": "mudasobwa",
+    "example": "mudasobwa gishya"
+  },
+  {
+    "english": "television",
+    "kinyarwanda": "televiziyo",
+    "example": "televiziyo nini"
+  },
+  {
+    "english": "charger",
+    "kinyarwanda": "chajilo",
+    "example": "chajilo ya telefoni"
+  },
+  {
+    "english": "cable",
+    "kinyarwanda": "insinga",
+    "example": "insinga ya USB"
+  },
+  {
+    "english": "earphones",
+    "kinyarwanda": "écouteur",
+    "example": "écouteur nziza"
+  },
+  {
+    "english": "battery",
+    "kinyarwanda": "bateri",
+    "example": "bateri nziza"
+  },
+  {
+    "english": "screen",
+    "kinyarwanda": "ecran",
+    "example": "ecran nini"
+  },
+  {
+    "english": "watch",
+    "kinyarwanda": "saa",
+    "example": "saa nziza"
+  },
+  {
+    "english": "camera",
+    "kinyarwanda": "kamera",
+    "example": "kamera ifotora neza"
+  },
+  {
+    "english": "speaker",
+    "kinyarwanda": "haut-parleur",
+    "example": "haut-parleur ikangura"
+  },
+  {
+    "english": "bag",
+    "kinyarwanda": "agaseke",
+    "example": "agaseke ka mudasobwa"
+  },
+  {
+    "english": "backpack",
+    "kinyarwanda": "umufuka w'inyuma",
+    "example": "umufuka w'inyuma nziza"
+  },
+  {
+    "english": "cooking pot",
+    "kinyarwanda": "isafuriya",
+    "example": "isafuriya nini"
+  },
+  {
+    "english": "refrigerator",
+    "kinyarwanda": "frigo",
+    "example": "frigo nziza"
+  },
+  {
+    "english": "iron",
+    "kinyarwanda": "fer",
+    "example": "fer yo gukanika"
+  },
+  {
+    "english": "fan",
+    "kinyarwanda": "ventilateu",
+    "example": "ventilateu ikangura"
+  },
+  {
+    "english": "blender",
+    "kinyarwanda": "blender",
+    "example": "blender ikorana neza"
+  },
+  {
+    "english": "kettle",
+    "kinyarwanda": "bouilloire",
+    "example": "bouilloire ya metero"
+  },
+  {
+    "english": "electricity",
+    "kinyarwanda": "amashanyarazi",
+    "example": "gukoresha amashanyarazi"
+  },
+  {
+    "english": "chair",
+    "kinyarwanda": "intebe",
+    "example": "intebe nziza y'ibiro"
+  },
+  {
+    "english": "table",
+    "kinyarwanda": "mesa",
+    "example": "mesa nini"
+  },
+  {
+    "english": "bed",
+    "kinyarwanda": "igitanda",
+    "example": "igitanda cyiza"
+  },
+  {
+    "english": "sofa",
+    "kinyarwanda": "sofa",
+    "example": "sofa nziza"
+  },
+  {
+    "english": "wardrobe",
+    "kinyarwanda": "garderobe",
+    "example": "garderobe nini"
+  },
+  {
+    "english": "shelf",
+    "kinyarwanda": "etagere",
+    "example": "etagere y'ibitabo"
+  },
+  {
+    "english": "mattress",
+    "kinyarwanda": "matelas",
+    "example": "matelas nziza"
+  },
+  {
+    "english": "desk",
+    "kinyarwanda": "bureau",
+    "example": "bureau nziza"
+  },
+  {
+    "english": "cream",
+    "kinyarwanda": "kremu",
+    "example": "kremu y'uruhu"
+  },
+  {
+    "english": "hair",
+    "kinyarwanda": "imisatsi",
+    "example": "amavuta y'imisatsi"
+  },
+  {
+    "english": "oil",
+    "kinyarwanda": "amavuta",
+    "example": "amavuta meza"
+  },
+  {
+    "english": "lotion",
+    "kinyarwanda": "losyo",
+    "example": "losyo y'umubiri"
+  },
+  {
+    "english": "perfume",
+    "kinyarwanda": "parefumu",
+    "example": "parefumu nziza"
+  },
+  {
+    "english": "shampoo",
+    "kinyarwanda": "shampoo",
+    "example": "shampoo y'imisatsi"
+  },
+  {
+    "english": "soap",
+    "kinyarwanda": "isabuni",
+    "example": "isabuni nziza"
+  },
+  {
+    "english": "skin",
+    "kinyarwanda": "uruhu",
+    "example": "uruhu rwiza"
+  },
+  {
+    "english": "body",
+    "kinyarwanda": "umubiri",
+    "example": "amavuta y'umubiri"
+  },
+  {
+    "english": "face",
+    "kinyarwanda": "mu maso",
+    "example": "kremu yo mu maso"
+  },
+  {
+    "english": "clothes",
+    "kinyarwanda": "impuzu",
+    "example": "impuzu nziza"
+  },
+  {
+    "english": "shoes",
+    "kinyarwanda": "urukweto",
+    "example": "urukweto rwiza"
+  },
+  {
+    "english": "dress",
+    "kinyarwanda": "robe",
+    "example": "robe nziza"
+  },
+  {
+    "english": "shirt",
+    "kinyarwanda": "chemise",
+    "example": "chemise ya gabo"
+  },
+  {
+    "english": "trousers",
+    "kinyarwanda": "pantalon",
+    "example": "pantalon nziza"
+  },
+  {
+    "english": "jacket",
+    "kinyarwanda": "ijaki",
+    "example": "ijaki nziza"
+  },
+  {
+    "english": "wear",
+    "kinyarwanda": "kwambara",
+    "example": "kwambara neza"
+  },
+  {
+    "english": "style",
+    "kinyarwanda": "style",
+    "example": "style nziza"
+  },
+  {
+    "english": "kitenge",
+    "kinyarwanda": "kitenge",
+    "example": "kitenge nziza y'Afrika"
+  }
+]
