@@ -24,6 +24,10 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 from preprocessor import preprocess
+import os
+import warnings
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+warnings.filterwarnings("ignore")
 
 # ---------------------------------------------------------------------------
 # Paths
