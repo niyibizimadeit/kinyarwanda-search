@@ -5,7 +5,7 @@ Combines TF-IDF and embedding scores into one final ranked result.
 
 Formula:
   final_score = alpha * tfidf_score + beta * embedding_score
-  default: alpha=0.4, beta=0.6
+  default: alpha=0.8, beta=0.2
 
 Why hybrid:
   - TF-IDF is strong on exact Kinyarwanda keyword matches
@@ -28,8 +28,8 @@ import embedding_retriever as embed
 # alpha + beta should always equal 1.0
 # These will be tuned in Phase 3 using MRR evaluation
 # ---------------------------------------------------------------------------
-DEFAULT_ALPHA = 0.4   # weight for TF-IDF score
-DEFAULT_BETA  = 0.6   # weight for embedding score
+DEFAULT_ALPHA = 0.8   # weight for TF-IDF score
+DEFAULT_BETA  = 0.2   # weight for embedding score
 
 
 # ---------------------------------------------------------------------------
